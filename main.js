@@ -51,7 +51,7 @@ nextTwo.onclick=()=>{
   nextThree.hidden=false;
   nextTwo.hidden=true;
   document.getElementById('word-five').innerHTML='DEAR';
-  document.getElementById('word-six').innerHTML='FAG';
+  document.getElementById('word-six').innerHTML='PER';
   lastLyric.style.display='inline-block';
   document.getElementById('letter-note-three').innerHTML='G'
   document.getElementById('letter-note-four').innerHTML='E'
